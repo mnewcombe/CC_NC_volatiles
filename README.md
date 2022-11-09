@@ -1,6 +1,7 @@
 # CC_NC_volatiles
 
 Supplementary Data Tables for “Degassing of early-formed planetesimals restricted water delivery to Earth"
+In review at Nature, November 2022
 
 Authors: Newcombe M.E.*, Nielsen S.G., Peterson L., Wang J., Alexander C.M.O’D., Sarafian A.R., Shimizu K., Nittler L.R. and Irving A.J.
 
